@@ -7,4 +7,4 @@ def factorial(n):
 number = 5
 result = factorial(5)
 
-print(f"resultado : { result } ")
+print(f"resultado : { result * 3 } ")
